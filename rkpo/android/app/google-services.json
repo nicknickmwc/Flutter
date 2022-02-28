@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "365244260978",
+    "project_id": "rkpobase",
+    "storage_bucket": "rkpobase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365244260978:android:58e6a636ca5504e9f258eb",
+        "android_client_info": {
+          "package_name": "com.example.rkpo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365244260978-ru21ahml83equoujqlvlglbbpsg17u64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWejStI8NfKod-54xZOf68ffwGHn4qlNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365244260978-ru21ahml83equoujqlvlglbbpsg17u64.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
